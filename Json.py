@@ -20,7 +20,7 @@ with open('data1.json','w') as json_file:
     json.dump(data1, json_file, indent=4)
 
 
-#This code lets us know the code has been written into data1.json
+#Run the code to create data1.json file
 print("Data has been written to data1.json")
 
 #Read json file
