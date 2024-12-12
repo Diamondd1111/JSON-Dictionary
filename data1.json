@@ -1,0 +1,15 @@
+{
+    "name": "Diamond Butler",
+    "age": 51,
+    "city": "Texas",
+    "interests": [
+        "Candy",
+        "Bug",
+        "Dustmites",
+        "Fenchbulldog",
+        "Tucan",
+        "Beetles",
+        "potluck"
+    ],
+    "is_student": false
+}
